@@ -51,8 +51,12 @@ This project compares three population-based metaheuristic algorithms — **Gene
      ```bash
    python main_all.py
 
-4.	**Check the output:**
+3.	**Check the output:**
 	•	Each algorithm logs its generation-wise best fitness to:
 	•	data/ga_fitness_log.csv
 	•	data/de_fitness_log.csv
 	•	data/pso_fitness_log.csv
+
+4.  **Run Plot Convergence:**
+      ```bash
+     python plot_convergence.py     
