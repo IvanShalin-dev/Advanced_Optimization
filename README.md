@@ -49,7 +49,7 @@ This project compares three population-based metaheuristic algorithms — **Gene
    pip install -r requirements.txt
 2. **Run all optimizers:**
      ```bash
-   python main_all.py
+   python main.py
 
 3.	**Check the output:**
 	•	Each algorithm logs its generation-wise best fitness to:
