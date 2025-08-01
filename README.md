@@ -66,10 +66,11 @@ This project compares three population-based metaheuristic algorithms — **Gene
 1. **Install dependencies** (if any):
    ```bash
    pip install -r requirements.txt
-2.	**Run all optimizers:**
+2. **Run all optimizers:**
+     ```bash
    python run_all.py
 
-3.	**Check the output:**
+4.	**Check the output:**
 	•	Each algorithm logs its generation-wise best fitness to:
 	•	data/ga_fitness_log.csv
 	•	data/de_fitness_log.csv
