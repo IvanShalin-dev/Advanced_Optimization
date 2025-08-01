@@ -42,25 +42,6 @@ This project compares three population-based metaheuristic algorithms — **Gene
 
 ---
 
-## 📁 Project Structure
-
-.
-├── algorithms/
-│   ├── ga.py                    # Genetic Algorithm
-│   ├── de.py                    # Differential Evolution
-│   └── pso.py                   # Particle Swarm Optimization
-├── utils/
-│   └── rastrigin.py             # Rastrigin function implementation
-├── run_all.py                   # Runs GA, DE, PSO sequentially
-├── data/
-│   ├── ga_fitness_log.csv       # Generation-wise fitness (GA)
-│   ├── de_fitness_log.csv       # Generation-wise fitness (DE)
-│   └── pso_fitness_log.csv      # Generation-wise fitness (PSO)
-├── plot_convergence.py          # Optional: Visualize all convergence curves
-└── README.md
-
----
-
 ## ▶️ How to Run
 
 1. **Install dependencies** (if any):
